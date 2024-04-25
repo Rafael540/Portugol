@@ -1,7 +1,7 @@
 
 # Lógica de Programação | Material de estudos com portugol
 
-O presente repositório possui exercícios e anotações relacionadas ao meus estudos de lógica de programação utilizando Portugol, linguagem desenvolvida unicamente com intuito de proporcionar o entendimento dos meandros do desenvolvimento de computacional.
+O presente repositório possui exercícios e anotações relacionadas ao meus estudos de lógica de programação utilizando Portugol, linguagem desenvolvida unicamente com intuito de proporcionar o entendimento dos meandros do desenvolvimento computacional.
 
 ## 📕 Documentação
 - [Documentação Portugol] (https://portugol.dev/)
